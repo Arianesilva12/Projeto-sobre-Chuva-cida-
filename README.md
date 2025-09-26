@@ -11,14 +11,14 @@
     />
     <style>
       :root {
-        --primary: #2C6975;
-        --accent: #6BB2A0;
-        --bg: #E0ECDE;
-        --bg-light: #CDE0C9;
-        --text: #2C2C2C;
-        --muted: #6b7280;
-        --radius: 14px;
-        font-family: 'Inter', sans-serif;
+         --primary: #2465c5;
+  --accent: #245399;
+  --bg: #E0ECDE;
+  --bg-light: #CDE0C9;
+  --text: #2C2C2C;
+  --muted: #395691;
+  --radius: 14px;
+  font-family: 'Inter', sans-serif;
       }
 
       * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -208,61 +208,59 @@
         </p>
       </section>
 
-      <section id="causas" class="block alt">
-        <h2>Causas</h2>
+     
+
+      <section id="Missão" class="block alt">
+        <h2>Missão</h2>
         <ul>
-          <li>Emissão de <strong>SO₂</strong> pela queima de carvão e petróleo.</li>
-          <li>Emissão de <strong>NOx</strong> por veículos e indústrias.</li>
-          <li>Formação de ácidos (H₂SO₄ e HNO₃) na atmosfera.</li>
+          <li>A nossa missão é deixar a vida mais prática e segura <strong>trazendo uma câmera que ajuda</strong> 
+            a enxergar por dentro de forma rápida e sem complicação.</li>
+          <li>A ideia é apoiar hospitais <strong> e aeroportos para que possam </strong>cuidar melhor das pessoas e garantir mais</li>
+          <li>tranquilidade no dia a dia</li>
         </ul>
       </section>
 
-      <section id="impactos" class="block">
-        <h2>Impactos</h2>
+      <section id="Público alvo" class="block">
+        <h2>Público alvo</h2>
         <ul>
-          <li><strong>Solo:</strong> perda de nutrientes, liberação de metais tóxicos.</li>
-          <li><strong>Água:</strong> rios e lagos mais ácidos, morte de organismos.</li>
-          <li><strong>Vegetação:</strong> danos às folhas e raízes.</li>
-          <li><strong>Construções:</strong> corrosão de metais e monumentos.</li>
-          <li><strong>Saúde:</strong> agravamento de problemas respiratórios.</li>
+          <li><strong>Aeroportos:</strong> agilizar a segurança e reduzir processos invasivos.</li>
+          <li><strong>Hospitais/Clínicas:</strong> apoiar na triagem rápida de pacientes.</li>
+          <li><strong>Eventos de grande porte:</strong>  garantir segurança em shows, estádios e feiras.</li>
+          <li><strong>Bancos e áreas restritas: </strong> aumentar a proteção em ambientes de alto risco.</li>
+          <li><strong>Grandes empresas:</strong> controlar a entrada e saída de objetos permitidos, reforçando a segurança interna.</li>
         </ul>
       </section>
 
-      <section id="solucoes" class="block alt">
-        <h2>Soluções</h2>
+      <section id="valores" class="block alt">
+        <h2>valores</h2>
         <ul>
-          <li>Reduzir combustíveis fósseis e usar energias renováveis.</li>
-          <li>Filtros e catalisadores em veículos e indústrias.</li>
-          <li>Reflorestamento e recuperação ambiental.</li>
-          <li>Neutralização de solos e águas com calagem.</li>
-        </ul>
-      </section>
-
+          <li>Privacidade:imagens usadas apenas para exames médicos ou controle de segurança, respeitando a intimidade das pessoas.</li>
+          <li>Benefício social:priorizar a saúde dos pacientes e a segurança de todos no ambiente.</li>
+          <li>Transparência: deixar claro como a câmera funciona e para que suas imagens são usadas.</li>
+          <li>Segurança dos dados:proteger todas as imagens contra acesso não autorizado ou vazamentos.</li>
+          
       <!-- CURIOSIDADES -->
       <section id="curiosidades" class="block">
         <h2>Curiosidades</h2>
         <div class="curiosidades-grid">
           <div class="curiosidade-card">
-            💧 <p>A primeira pesquisa sobre chuva ácida foi publicada em 1852 pelo químico Robert Angus Smith.</p>
+            🔋 <p>Bateria de longa duração – funciona horas seguidas sem precisar recarregar.</p>
           </div>
           <div class="curiosidade-card">
-            🌍 <p>Países nórdicos foram os primeiros a notar danos florestais causados por chuvas ácidas nos anos 60.</p>
+             📷 <p>Imagens instantâneas – captura e envia fotos em tempo real.</p>
           </div>
           <div class="curiosidade-card">
-            🏛️ <p>Monumentos históricos, como o Taj Mahal e a Acrópole, sofrem desgaste acelerado por causa da chuva ácida.</p>
+           ⚡<p>Alta precisão – identifica objetos ou áreas médicas com grande clareza.</p>
           </div>
         </div>
       </section>
 
-      <!-- VÍDEO -->
-      <section id="video" class="block">
-        <h2>Assista ao Vídeo Explicativo</h2>
-        <div class="video-wrapper">
+     
           <iframe
             width="560"
             height="315"
             src="https://www.youtube.com/embed/9egpauSj0IA"
-            title="Vídeo sobre Chuva Ácida"
+            title="foto ilustrativa do projeto"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
@@ -276,32 +274,32 @@
       <h2>Autores do Trabalho</h2>
       <div class="author-grid">
         <div class="author-card">
+          <h3>Cauã</h3>
+          <p>Responsável pela pesquisa sobre <strong>Funcionalidades</strong>.</p>
+    
+        </div>
+        <div class="author-card">
           <h3>Victor Kaique</h3>
-          <p>Responsável pela pesquisa sobre <strong>Definição</strong>.</p>
+          <p>Responsável pelo desenvolvimento de: <strong>Missão</strong>.</p>
+          
         </div>
         <div class="author-card">
           <h3>Igor Carvalho</h3>
-          <p>Responsável pela pesquisa sobre <strong>missão</strong>.</p>
-          <a href="https://www.todamateria.com.br/chuva-acida/" target="_blank">Fonte pesquisada</a>
+          <p>Responsável pela pesquisa sobre <strong>Público alvo</strong>.</p>
+          
         </div>
         <div class="author-card">
-          <h3>Vitória do Carmo</h3>
-          <p>Responsável pela pesquisa sobre <strong>Impactos</strong>.</p>
-          <a href="https://mundoeducacao.uol.com.br/quimica/chuva-acida.htm" target="_blank">Fonte pesquisada</a>
+          <h3>Henzel e thierry</h3>
+          <p>Responsável pela pesquisa sobre <strong>valores e definição</strong>.</p>
+        
         </div>
         <div class="author-card">
-          <h3>Sara Kalyane</h3>
-          <p>Responsável pela pesquisa sobre <strong>Soluções</strong>.</p>
-          <a href="https://www.infoescola.com/quimica/chuva-acida/" target="_blank">Fonte pesquisada</a>
-        </div>
-        <div class="author-card">
-          <h3>Iasmin Rodrigues</h3>
+          <h3>Ariane</h3>
           <p>Organização, revisão e formatação do conteúdo.</p>
-          <a href="https://pt.wikipedia.org/wiki/Chuva_%C3%A1cida" target="_blank">Fonte de apoio</a>
-        </div>
+          
       </div>
-      <p class="school-info"><strong>Instituição:</strong> Escola Estadual Jardim Fortaleza 2</p>
-      <p class="school-info"><strong>Ano:</strong> 3°C — Ensino Médio</p>
+      <p class="school-info"><strong>Instituição:</strong>Natasha </p>
+      <p class="school-info"><strong>Empresas:</strong>Sky Chefs, Colégio Mater e Impala,</p>
     </section>
 
     <!-- BOTÃO VOLTAR AO TOPO -->
