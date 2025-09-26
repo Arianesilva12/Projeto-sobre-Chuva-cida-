@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Chuva Ácida — Trabalho Escolar</title>
+    <title>Raioxtech — Trabalho Escolar</title>
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&display=swap"
       rel="stylesheet"
@@ -179,9 +179,9 @@
         <h1 class="logo">Chuva Ácida</h1>
         <ul class="nav-links">
           <li><a href="#definicao">Definição</a></li>
-          <li><a href="#causas">Causas</a></li>
-          <li><a href="#impactos">Impactos</a></li>
-          <li><a href="#solucoes">Soluções</a></li>
+          <li><a href="#missão">missão</a></li>
+          <li><a href="#valores">valores</a></li>
+          <li><a href="#público alvo">público alvo</a></li>
           <li><a href="#curiosidades">Curiosidades</a></li>
           <li><a href="#video">Vídeo</a></li>
           <li><a href="#autoria">Autores</a></li>
@@ -192,18 +192,19 @@
     <!-- HEADER -->
     <header class="hero">
       <div class="hero-content">
-        <h2>Entenda o Fenômeno</h2>
-        <p>Definição, causas, impactos e soluções para a chuva ácida</p>
+        <h2>Entenda sobre</h2>
+        <p>Definição, missão, valores e público alvo</p>
       </div>
     </header>
 
     <main class="container">
       <section id="definicao" class="block">
-        <h2>O que é a chuva ácida?</h2>
+        <h2>O que é a Raioxtech?</h2>
         <p>
-          A chuva ácida é uma precipitação com pH inferior ao natural (~5,6).
-          Quando atinge valores em torno de 4 ou menos, torna-se prejudicial ao
-          meio ambiente.
+         Câmera Instantânea de Triagem raioxtech é um conceito inovador pensado para ambientes como aeroportos e hospitais, 
+         onde o tempo de resposta é Instantâneo. Ela funciona como uma câmera avançada de triagem não-invasiva,
+         projetada para captar imagens internas em tempo real, oferecendo uma visão imediata que auxilia equipes de  
+         segurança e saúde na tomada de decisões.
         </p>
       </section>
 
@@ -275,13 +276,12 @@
       <h2>Autores do Trabalho</h2>
       <div class="author-grid">
         <div class="author-card">
-          <h3>Ariane Silva</h3>
+          <h3>Victor Kaique</h3>
           <p>Responsável pela pesquisa sobre <strong>Definição</strong>.</p>
-          <a href="https://brasilescola.uol.com.br/quimica/chuva-acida.htm" target="_blank">Fonte pesquisada</a>
         </div>
         <div class="author-card">
-          <h3>Larissa Rillary</h3>
-          <p>Responsável pela pesquisa sobre <strong>Causas</strong>.</p>
+          <h3>Igor Carvalho</h3>
+          <p>Responsável pela pesquisa sobre <strong>missão</strong>.</p>
           <a href="https://www.todamateria.com.br/chuva-acida/" target="_blank">Fonte pesquisada</a>
         </div>
         <div class="author-card">
